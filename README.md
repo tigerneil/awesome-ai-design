@@ -9,3 +9,4 @@
 
 ## Articles
 - [The Present and Future of AI in Design [Infographic]](https://www.toptal.com/designers/product-design/infographic-ai-in-design)
+- [AI Design and Digital Art](https://www.bmw.com/en/design/ai-design-and-digital-art.html)
